@@ -1,4 +1,4 @@
-django==1.7
+django==1.11.29
 easy_thumbnails
 django-summernote
 psycopg2
